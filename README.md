@@ -58,11 +58,41 @@ file
 ``` javascript
 $(document).ready(function(){
 
+  clip = new Clipboard('.copy-target')
+
+  toastr.options = {
+    "positionClass": "toast-bottom-center",
+    ....
+    ....
+  }
+
+  $(".copy-target").click ->
+    toastr.info "Copy Success Alert"
 
 
 });
 ```
 
+```html
+
+<html>
+  <head>
+  ...
+  </head>
+
+  <body>
+    ...
+    ...
+
+    <span class="copy-target" data-clipboard-text="COPY CONTENT">Copy Link</span>
+
+    ...
+    ...
+  </body>
+
+</html>
+
+```
 
 
 
