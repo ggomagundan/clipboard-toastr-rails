@@ -1,6 +1,8 @@
 # clipboard-toastr-rails
 [![Gem
 Version](https://badge.fury.io/rb/clipboard-toastr-rails.svg)](https://badge.fury.io/rb/clipboard-toastr-rails)
+[![Build
+Status](https://travis-ci.org/ggomagundan/clipboard-toastr-rails.svg?branch=master)](https://travis-ci.org/ggomagundan/clipboard-toastr-rails)
 
 clipboard-toastr-rails gem is the integration of clipboard.js and toastr javascript
 library(using 2.2 Version) for your Rails 4, 5 application.
