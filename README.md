@@ -124,7 +124,9 @@ $(document).ready(function(){
 ## Full documentation 
 
 The Documentation is at
+
 [Clipboard.js Document](https://clipboardjs.com/)
+
 [Toastr Document](http://codeseven.github.io/toastr/)
 
 ## Change Log
