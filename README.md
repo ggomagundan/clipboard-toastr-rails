@@ -68,8 +68,23 @@ $(document).ready(function(){
     ....
   }
 
-  $(".copy-target").click ->
+  $(".copy-target").click(function() {
     toastr.info "Copy Success Alert"
+  });
+
+  target_clip = new Clipboard('.copy-target1')
+
+  toastr.options = {
+    "positionClass": "toast-top-center",
+    ....
+    ....
+  }
+
+  $(".copy-target1").click(function() {
+    toastr.info "Copy Success Alert"
+  });
+
+
 
 
 });
@@ -83,6 +98,13 @@ $(document).ready(function(){
   </head>
 
   <body>
+    ...
+    ...
+
+    <input id="copy-content" value="This is Copy Content"/>
+
+    <span class="copy-target1" data-clipboard-target="#copy-content">Copy This Content</span>
+
     ...
     ...
 
