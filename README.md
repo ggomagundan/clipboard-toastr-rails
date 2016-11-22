@@ -129,7 +129,7 @@ The Documentation is at
 
 ## Change Log
 
-Current Version 1.0.0
+Current Version 1.1.0
 
 This link listing [Change Log](https://github.com/ggomagundan/clipboard-toastr-rails/blob/master/CHANGE_LOG.md)
 
