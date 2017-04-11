@@ -1,8 +1,15 @@
 # clipboard-toastr-rails
-[![Gem
-Version](https://badge.fury.io/rb/clipboard-toastr-rails.svg)](https://badge.fury.io/rb/clipboard-toastr-rails)
-[![Build
-Status](https://travis-ci.org/ggomagundan/clipboard-toastr-rails.svg?branch=master)](https://travis-ci.org/ggomagundan/clipboard-toastr-rails)
+[![Gem Version](https://badge.fury.io/rb/clipboard-toastr-rails.svg)](https://badge.fury.io/rb/clipboard-toastr-rails)
+![](http://ruby-gem-downloads-badge.herokuapp.com/clipboard-toastr-rails?type=total)
+[![Code Climate](https://codeclimate.com/github/ggomagundan/clipboard-toastr-rails/badges/gpa.svg)](https://codeclimate.com/github/ggomagundan/clipboard-toastr-rails)
+
+[![Build Status](https://travis-ci.org/ggomagundan/clipboard-toastr-rails.svg?branch=master)](https://travis-ci.org/ggomagundan/clipboard-toastr-rails)
+[![GitHub issues](https://img.shields.io/github/issues/ggomagundan/clipboard-toastr-rails.svg)](https://github.com/ggomagundan/clipboard-toastr-rails/issues) 
+[![Dependency Status](https://gemnasium.com/badges/github.com/ggomagundan/clipboard-toastr-rails.svg)](https://gemnasium.com/github.com/ggomagundan/clipboard-toastr-rails)
+[![Coverage Status](https://coveralls.io/repos/github/ggomagundan/clipboard-toastr-rails/badge.svg?branch=master)](https://coveralls.io/github/ggomagundan/clipboard-toastr-rails?branch=master)
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/ggomagundan/clipboard-toastr-rails/master/LICENSE.txt)
+
 
 clipboard-toastr-rails gem is the integration of clipboard.js and toastr javascript
 library(using 2.2 Version) for your Rails 4, 5 application.
